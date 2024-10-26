@@ -7,3 +7,5 @@ Hi, this is my rea me file, created to test
 save
 
 ##add new index.html file
+
+## modifying 1 file out of 2 and making a commit
